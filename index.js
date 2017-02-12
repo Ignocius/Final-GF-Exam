@@ -1,3 +1,4 @@
+var kutya = 'kutya';
 const alma = 'alma';
 
 const fa = (cica) => {

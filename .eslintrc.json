@@ -6,6 +6,10 @@
         "jsx-a11y",
         "import"
     ],
+    "globals": {
+      "var1": false,
+      "var2": false
+    },
     "rules": {
         "semi": 2
     }
