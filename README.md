@@ -29,8 +29,8 @@ The student, on their own, is able to:
   - Resolving a simple merge conflict
   - Creating a pull request
 - Use the command line:
-  - Traversing directories
-  - Moving, copying, creating, deleting files
+  - Traversing directories cd /c/project pwd - current path 
+  - Moving, copying, creating, deleting files - mv, cp, mkdir - touch, rm , rm -r
   - Passing command line arguments to commands
 - Use databases:
   - Implement database calls with JavaScript
