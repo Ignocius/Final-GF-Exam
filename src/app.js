@@ -22,6 +22,8 @@ const cat = new Animal('miau');
 console.log(dog.say());
 console.log(cat.say());
 
+let minden.valami = 2;
+
 console.group('------Filter--------');
 
 const data = [1, 2, 3, 4, 5, 6, 1, 78, 86, 8, 10];
@@ -74,7 +76,30 @@ const newInput = input.map((item, index) => {
   return (index % 2 === 1) ? item : 'map this';
 });
 
+const yoo = () => {
+  console.log('nested shit');
+};
+
+function CallBackHell(fun){
+  fun();
+  console.log('shit');
+}
+
+CallBackHell(yoo)
+
 console.log(arrayMap(input));
 console.log(newInput);
 console.log('yoo', newArr);
 arrayMap('asas');
+
+function time() {
+  console.log("valami");
+}
+
+const clearThat = setTimeout(time, 10000);
+const clear = clearTimeout(clearThat);
+
+const button = document.createElement('button');
+document.querySelector('button');
+document.body.appendChild(button);
+button.addEventListener('click', clear);

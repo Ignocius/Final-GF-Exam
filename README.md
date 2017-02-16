@@ -5,10 +5,10 @@ The student, on their own, is able to:
 - [Use and set up linters] (https://github.com/greenfox-zerda-lasers/jade-lunch-planner/blob/master/.eslintrc.json)
 - Create variables, functions, objects in JavaScript based on a given specification
 - Use conditions and loops:
-  - [Filtering](https://github.com/greenfox-zerda-lasers/SzaboRichard/blob/master/week-07/day-3/06.js)
-  - [Finding elements or index](https://github.com/greenfox-zerda-lasers/SzaboRichard/blob/master/week-07/day-3/06.js)
-  - [Generating collections](https://github.com/greenfox-zerda-lasers/SzaboRichard/blob/master/week-07/day-3/05.js)
-  - [Counting items in an object](https://github.com/greenfox-zerda-lasers/SzaboRichard/blob/master/week-07/day-3/08.js)
+  - [Filtering]()
+  - [Finding elements or index]()
+  - [Generating collections]()
+  - [Counting items in an object]()
 - Determine the output of a logical expression
 - Determine the output of an immediately invoked function expression
 - Use higher order functions
@@ -17,26 +17,26 @@ The student, on their own, is able to:
 - Install packages via a [package manager](https://github.com/greenfox-zerda-lasers/jade-lunch-planner)
 - Write [unit tests](https://github.com/Ignocius/zerda-exam-web/blob/master/test.js) for functions and methods without mocking dependencies
 - [Include and call 3rd party libraries in their code](https://github.com/greenfox-zerda-lasers/jade-lunch-planner)
-  - Using libraries on the frontend
-  - Using libraries on the backend
+  - [Using libraries on the frontend](https://github.com/Ignocius/bootstraplightning/blob/master/index.html)
+  - [Using libraries on the backend](https://github.com/greenfox-zerda-lasers/SzaboRichard/blob/master/week-10/server/index.js)
 - Use frameworks and know its components and processes
 - Use async structures:
   - [Writing functions that are taking and calling callbacks](https://github.com/greenfox-zerda-lasers/SzaboRichard/blob/master/week-09/day-1/public/ultimatejs.js)
   - Determining the calling order in nested callbacks
-  - [Using timers](
+  - Using timers
 - Use git:
   - Commit, add, push, pull
   - Resolving a simple merge conflict
   - Creating a pull request
 - Use the command line:
   - Traversing directories cd /c/project pwd - current path 
-  - Moving, copying, creating, deleting files - mv, cp, mkdir - touch, rm , rm -r
+  - Moving, copying, creating, deleting files 
   - Passing command line arguments to commands
 - Use databases:
   - Implement database calls with JavaScript
   - Write a simple SQL query for a single table:
-    - Listing, Deleting, Updating, Creating rows with specific values
-- Write backend code:
+    - [Listing, Deleting, Updating, Creating rows with specific values](https://github.com/greenfox-zerda-lasers/SzaboRichard/blob/master/week-10/server/index.js)
+- [Write backend code:](https://github.com/greenfox-zerda-lasers/SzaboRichard/blob/master/week-11/server/server.js)
   - Implement an HTTP endpoint
   - Set headers on HTTP responses
 - Explain REST concepts
