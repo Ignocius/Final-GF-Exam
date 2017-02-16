@@ -11,6 +11,7 @@
       "var2": false
     },
     "rules": {
-        "semi": 2
+        "semi": 2,
+        "arrow-body-style": ["error", "always"]
     }
 }

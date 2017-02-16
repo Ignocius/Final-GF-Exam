@@ -5,7 +5,7 @@ The student, on their own, is able to:
 - Use and set up linters - https://github.com/greenfox-zerda-lasers/jade-lunch-planner/blob/master/.eslintrc.json
 - Create variables, functions, objects in JavaScript based on a given specification
 - Use conditions and loops:
-  - Filtering
+  - [Filtering](https://github.com/greenfox-zerda-lasers/SzaboRichard/blob/master/week-07/day-3/06.js)
   - Finding elements or index
   - Generating collections
   - Counting items in an object
