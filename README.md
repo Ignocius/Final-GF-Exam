@@ -1,4 +1,6 @@
-# Final exam requirements
+
+
+[# Green Fox Final exam requirements](https://avatars3.githubusercontent.com/u/14247612?v=3&s=200)
 
 The student, on their own, is able to:
 - Follow indentation and coding styleguides in their code
