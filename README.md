@@ -14,16 +14,16 @@ The student, on their own, is able to:
 - Use higher order functions
 - Explain their own code
 - Initialize a node package
-- Install packages via a package manager
+- Install packages via a [package manager](https://github.com/greenfox-zerda-lasers/jade-lunch-planner)
 - Write [unit tests](https://github.com/Ignocius/zerda-exam-web/blob/master/test.js) for functions and methods without mocking dependencies
-- Include and call 3rd party libraries in their code
+- [Include and call 3rd party libraries in their code](https://github.com/greenfox-zerda-lasers/jade-lunch-planner)
   - Using libraries on the frontend
   - Using libraries on the backend
 - Use frameworks and know its components and processes
 - Use async structures:
-  - Writing functions that are taking and calling callbacks
+  - [Writing functions that are taking and calling callbacks](https://github.com/greenfox-zerda-lasers/SzaboRichard/blob/master/week-09/day-1/public/ultimatejs.js)
   - Determining the calling order in nested callbacks
-  - Using timers
+  - [Using timers](
 - Use git:
   - Commit, add, push, pull
   - Resolving a simple merge conflict
