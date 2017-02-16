@@ -52,17 +52,17 @@ const someObject = {
 
 const input = [1, 2, 3, 4, 5];
 const arrayMap = function EverySecondElemFromArray(item) {
+  const returnedArray = [];
   if (typeof item === 'object') {
-    const returnedArray = [];
     for (let i = 1; i < item.length; i++) {
       if (i % 2 === 0) {
         returnedArray.push(i);
       }
     }
-    return returnedArray;
   } else {
     throw Error;
   }
+  return returnedArray;
 };
 
 const newArr = input.filter((value, index) => {
@@ -74,13 +74,7 @@ const newInput = input.map((item, index) => {
   return (index % 2 === 1) ? item : 'map this';
 });
 
-const newStuff = input.filter((item, index) => {
-  return (index % 2 === 1) ? item : 'filter this';
-});
-
-
 console.log(arrayMap(input));
 console.log(newInput);
-console.log(newStuff);
 console.log('yoo', newArr);
 arrayMap('asas');

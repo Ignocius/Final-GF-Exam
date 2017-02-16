@@ -2,20 +2,20 @@
 
 The student, on their own, is able to:
 - Follow indentation and coding styleguides in their code
-- Use and set up linters - https://github.com/greenfox-zerda-lasers/jade-lunch-planner/blob/master/.eslintrc.json
+- [Use and set up linters] (https://github.com/greenfox-zerda-lasers/jade-lunch-planner/blob/master/.eslintrc.json)
 - Create variables, functions, objects in JavaScript based on a given specification
 - Use conditions and loops:
   - [Filtering](https://github.com/greenfox-zerda-lasers/SzaboRichard/blob/master/week-07/day-3/06.js)
-  - Finding elements or index
-  - Generating collections
-  - Counting items in an object
+  - [Finding elements or index](https://github.com/greenfox-zerda-lasers/SzaboRichard/blob/master/week-07/day-3/06.js)
+  - [Generating collections](https://github.com/greenfox-zerda-lasers/SzaboRichard/blob/master/week-07/day-3/05.js)
+  - [Counting items in an object](https://github.com/greenfox-zerda-lasers/SzaboRichard/blob/master/week-07/day-3/08.js)
 - Determine the output of a logical expression
 - Determine the output of an immediately invoked function expression
 - Use higher order functions
 - Explain their own code
 - Initialize a node package
 - Install packages via a package manager
-- Write unit tests for functions and methods without mocking dependencies
+- Write [unit tests](https://github.com/Ignocius/zerda-exam-web/blob/master/test.js) for functions and methods without mocking dependencies
 - Include and call 3rd party libraries in their code
   - Using libraries on the frontend
   - Using libraries on the backend
