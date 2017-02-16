@@ -8,9 +8,9 @@ The student, on their own, is able to:
   - Filtering
   - Finding elements or index
   - Generating collections
-  - Counting items in an object
+  - [Counting items in an object](https://github.com/greenfox-zerda-lasers/SzaboRichard/blob/master/week-07/day-3/08.js)
 - Determine the output of a logical expression
-- Determine the output of an immediately invoked function expression
+- [Determine the output of an immediately invoked function expression](https://github.com/greenfox-zerda-lasers/SzaboRichard/blob/master/week-11/public/renderMsgs.js)
 - Use higher order functions
 - Explain their own code
 - Initialize a node package
@@ -41,12 +41,12 @@ The student, on their own, is able to:
   - Set headers on HTTP responses
 - Explain REST concepts - GET PUT DELETE POST
 - [Write frontend code:](https://github.com/greenfox-zerda-lasers/SzaboRichard/blob/master/week-09/day-1/public/ultimatejs.js)
-  - Create layout in CSS and HTML based on a given specification
+  - [Create layout in CSS and HTML based on a given specification](https://github.com/greenfox-zerda-lasers/SzaboRichard/tree/master/week-02/day-4)
   - Select any HTML element using CSS selectors
   - Handle events
   - Dynamically create elements
   - Change attributes and properties on HTML elements using JavaScript
-  - Initiate HTTP requests
+  - [Initiate HTTP requests](https://github.com/greenfox-zerda-lasers/SzaboRichard/blob/master/week-11/public/ajax.js)
 - [Use build tools](https://github.com/greenfox-zerda-lasers/jade-lunch-planner/blob/master/webpack.config.js)
 - Deploy application to hosting service
 - Differentiate between backend and frontend functionality
