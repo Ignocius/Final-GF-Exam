@@ -12,6 +12,7 @@
     },
     "rules": {
         "semi": 2,
-        "arrow-body-style": ["error", "always"]
+        "arrow-body-style": ["error", "always"],
+        "quotes": [2, "double", "avoid-escape"]
     }
 }

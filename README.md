@@ -4,11 +4,11 @@ The student, on their own, is able to:
 - Follow indentation and coding styleguides in their code
 - [Use and set up linters] (https://github.com/greenfox-zerda-lasers/jade-lunch-planner/blob/master/.eslintrc.json)
 - Create variables, functions, objects in JavaScript based on a given specification
-- Use conditions and loops:
-  - [Filtering]()
-  - [Finding elements or index]()
-  - [Generating collections]()
-  - [Counting items in an object]()
+- [Use conditions and loops:](https://github.com/Ignocius/Final-GF-Exam/tree/master/src)
+  - Filtering
+  - Finding elements or index
+  - Generating collections
+  - Counting items in an object
 - Determine the output of a logical expression
 - Determine the output of an immediately invoked function expression
 - Use higher order functions
