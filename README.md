@@ -24,7 +24,7 @@ The student, on their own, is able to:
 - [Include and call 3rd party libraries in their code](https://github.com/greenfox-zerda-lasers/jade-lunch-planner)
   - [Using libraries on the frontend](https://github.com/Ignocius/bootstraplightning/blob/master/index.html)
   - [Using libraries on the backend](https://github.com/greenfox-zerda-lasers/SzaboRichard/blob/master/week-10/server/index.js)
-- Use frameworks and know its components and processes
+- [Use frameworks and know its components and processes](https://github.com/greenfox-zerda-lasers/jade-lunch-planner)
 - Use async structures:
   - [Writing functions that are taking and calling callbacks](https://github.com/greenfox-zerda-lasers/SzaboRichard/blob/master/week-09/day-1/public/ultimatejs.js)
   - Determining the calling order in nested callbacks
