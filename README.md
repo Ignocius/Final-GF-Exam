@@ -16,7 +16,7 @@ The student, on their own, is able to:
   - [Counting items in an object](https://github.com/greenfox-zerda-lasers/SzaboRichard/blob/master/week-07/day-3/08.js)
 - Determine the output of a logical expression
 - [Determine the output of an immediately invoked function expression](https://github.com/greenfox-zerda-lasers/SzaboRichard/blob/master/week-11/public/renderMsgs.js)
-- Use higher order functions
+- [Use higher order functions](https://github.com/Ignocius/Final-GF-Exam/blob/master/src/generatingcolls.js)
 - Explain their own code
 - Initialize a node package
 - Install packages via a [package manager](https://github.com/greenfox-zerda-lasers/jade-lunch-planner)
@@ -44,7 +44,7 @@ The student, on their own, is able to:
 - [Write backend code:](https://github.com/greenfox-zerda-lasers/SzaboRichard/blob/master/week-11/server/server.js)
   - Implement an HTTP endpoint
   - Set headers on HTTP responses
-- Explain REST concepts - GET PUT DELETE POST
+- Explain REST concepts 
 - [Write frontend code:](https://github.com/greenfox-zerda-lasers/SzaboRichard/blob/master/week-09/day-1/public/ultimatejs.js)
   - [Create layout in CSS and HTML based on a given specification](https://github.com/greenfox-zerda-lasers/SzaboRichard/tree/master/week-02/day-4)
   - Select any HTML element using CSS selectors
@@ -59,7 +59,7 @@ The student, on their own, is able to:
   - Create meaningful names for functions and variables
   - Split bigger functions to smaller ones
   - Separate functions to different files
-  - Point out code smells
+  - Point out code [smells](https://github.com/greenfox-zerda-lasers/SzaboRichard/blob/master/week-09/day-1/public/ultimatejs.js)
 - Name 3 design patterns
 - Understand how the internet works
   - Name the parts of an URL
